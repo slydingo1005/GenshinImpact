@@ -139,11 +139,11 @@ body{
     position: absolute;
 }
 #char>img{
-    height: 610px;
+    height: 640px;
     width: auto;
     position: absolute;
     bottom: 0;
-    right: 60px;
+    right: 80px;
     z-index: 2;
 }
 #char .data{
